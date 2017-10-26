@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="shift_handover" max_length="40" name="x_168682_dj_test_a_shift_handover" type="collection">
+        <element label="New Audio" max_length="40" name="u_audio_1" type="audio"/>
+    </element>
+</database>

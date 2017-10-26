@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_cat_item_delivery_plan">
+    <sc_cat_item_delivery_plan action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <advanced>false</advanced>
+        <calendar/>
+        <condition/>
+        <name>Test Execution Plan</name>
+        <order>100</order>
+        <parent_table>sc_req_item</parent_table>
+        <script/>
+        <short_description>Test Execution Plan</short_description>
+        <sys_class_name>sc_cat_item_delivery_plan</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-10-18 04:44:37</sys_created_on>
+        <sys_id>080b7a36db3103002471dec0cf96197a</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Test Execution Plan</sys_name>
+        <sys_package display_value="Dj_Test_App" source="x_168682_dj_test_a">e68068b1db3103002471dec0cf961973</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Dj_Test_App">e68068b1db3103002471dec0cf961973</sys_scope>
+        <sys_update_name>sc_cat_item_delivery_plan_080b7a36db3103002471dec0cf96197a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-10-18 04:53:08</sys_updated_on>
+        <task_table>sc_task</task_table>
+        <total_delivery_time>1970-01-03 00:00:00</total_delivery_time>
+    </sc_cat_item_delivery_plan>
+</record_update>

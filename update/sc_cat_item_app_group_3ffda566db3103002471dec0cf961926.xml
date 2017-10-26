@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_cat_item_app_group">
+    <sc_cat_item_app_group action="INSERT_OR_UPDATE">
+        <approval_group display_value="CAB Approval" name="CAB Approval">b85d44954a3623120004689b2d5dd60a</approval_group>
+        <sc_cat_item display_value="Test Creation Maintain T">a32c6379db7503002471dec0cf961982</sc_cat_item>
+        <sys_class_name>sc_cat_item_app_group</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-10-17 04:29:07</sys_created_on>
+        <sys_id>3ffda566db3103002471dec0cf961926</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test Creation Maintain T.CAB Approval</sys_name>
+        <sys_package display_value="Dj_Test_App" source="x_168682_dj_test_a">e68068b1db3103002471dec0cf961973</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Dj_Test_App">e68068b1db3103002471dec0cf961973</sys_scope>
+        <sys_update_name>sc_cat_item_app_group_3ffda566db3103002471dec0cf961926</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-10-17 04:29:07</sys_updated_on>
+    </sc_cat_item_app_group>
+</record_update>

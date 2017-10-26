@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="shift_handover" language="en" table="x_168682_dj_test_a_shift_handover">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>shift_handover</label>
+            <language>en</language>
+            <name>x_168682_dj_test_a_shift_handover</name>
+            <plural>shift_handovers</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-14 14:58:13</sys_created_on>
+            <sys_id>b131ecf1db3103002471dec0cf9619bb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>shift_handover</sys_name>
+            <sys_package display_value="Dj_Test_App" source="x_168682_dj_test_a">e68068b1db3103002471dec0cf961973</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Dj_Test_App">e68068b1db3103002471dec0cf961973</sys_scope>
+            <sys_update_name>sys_documentation_x_168682_dj_test_a_shift_handover__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-14 14:58:13</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

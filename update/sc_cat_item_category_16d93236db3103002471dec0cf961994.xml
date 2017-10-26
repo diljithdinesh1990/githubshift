@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Ammu Item">00b9f272db3103002471dec0cf96192f</sc_cat_item>
+        <sc_category display_value="Ammu">b5777eb2db3103002471dec0cf9619dd</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-10-18 04:39:00</sys_created_on>
+        <sys_id>16d93236db3103002471dec0cf961994</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Ammu.Ammu Item</sys_name>
+        <sys_package display_value="Dj_Test_App" source="x_168682_dj_test_a">e68068b1db3103002471dec0cf961973</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Dj_Test_App">e68068b1db3103002471dec0cf961973</sys_scope>
+        <sys_update_name>sc_cat_item_category_16d93236db3103002471dec0cf961994</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-10-18 04:39:00</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>
